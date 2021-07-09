@@ -1,0 +1,40 @@
+.wrap{display: flex;
+
+    border: 5px cornflowerblue solid;
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+
+
+    margin:25px auto;
+    box-sizing: border-box;
+
+    align-items: center;
+    align-content: center;
+
+}
+
+.but{
+
+    cursor: pointer;
+    color: darkolivegreen;
+    background-color: cornflowerblue;
+    box-shadow: 0 5px 0 #32373e;
+    border-radius: 10px;
+    margin-left: 30px;
+    font-size: 40px;
+    width: 150px;
+    height: 50px;
+}
+.hid{
+    cursor: pointer;
+    color: darkolivegreen;
+    background-color: cornflowerblue;
+    box-shadow: 0 5px 0 #32373e;
+    border-radius: 10px;
+    margin-left: 30px;
+    font-size: 40px;
+    width: 150px;
+    height: 50px;
+    opacity: 50%;
+}

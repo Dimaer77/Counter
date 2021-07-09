@@ -1,0 +1,16 @@
+.wrapper{
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    background-color: cornflowerblue;
+    margin:25px auto;
+    box-sizing: border-box;
+    font-size: 125px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+
+}
+.error{
+    color: red;
+}
